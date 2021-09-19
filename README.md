@@ -2,9 +2,7 @@
 - 🌱 I’m currently pursuing Btech in Computer Science at KIIT Bhubaneswar
 - 📫 How to reach me 
       Linkedin: https://www.linkedin.com/in/cheshta-bhasin-880218205/
-      
       Mail: cheshtabhasin2002@gmail.com
-      
       Facebook: https://www.facebook.com/cheshta.bhasin.7
 
 <!---
